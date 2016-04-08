@@ -3,7 +3,7 @@ A dialogs for react-native, code come from cordova, support for android and ios
 
 ## Installation
 ```sh
-npm install @remobile/react-native-dialogs --save
+npm install @zss0512/react-native-dialogs --save
 ```
 
 ### Installation (iOS)
